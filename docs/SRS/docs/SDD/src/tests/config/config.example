@@ -1,2 +1,4 @@
+APP_NAME=TurnosBaseline
 APP_ENV=development
 APP_PORT=8000
+LOG_LEVEL=INFO
