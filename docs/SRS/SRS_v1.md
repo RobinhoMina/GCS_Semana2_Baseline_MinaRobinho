@@ -14,3 +14,5 @@ REQ-005: El sistema mostrará un mensaje de confirmación al registrar un turno.
 RNF-001: El sistema deberá responder en menos de 2 segundos en operaciones básicas.
 RNF-002: El sistema deberá mantener una estructura modular y legible para facilitar mantenimiento.
 RNF-003: El repositorio deberá permitir reconstruir exactamente la versión liberada mediante tags.
+
+REQ-007: El sistema permitirá exportar los turnos en formato CSV para su análisis externo.
